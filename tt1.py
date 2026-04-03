@@ -5,7 +5,7 @@ import threading
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8616338227:AAFR7REevgOtuRi5lJzGtn67aNpXQeaWUKM"
 
 # ----------- COLORS -----------
 RED = "\033[91m"
